@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# dbt
+target/
+dbt_packages/
+logs/
+profiles.yml
+
+# Airflow
+airflow.db
+logs/
+
+# Environment files
+.env
+.env.*
+
+# AWS credentials
+.aws/
+*.pem
+*.key
+
+# OS files
+.DS_Store
