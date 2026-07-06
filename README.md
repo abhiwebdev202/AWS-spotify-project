@@ -56,3 +56,9 @@ Example Use Cases
   -Log analytics
   -Business reporting dashboards
   -Real-time-ish batch analytics on S3 data
+
+
+Author
+
+Abhinab Kashyap
+Data Engineering | Cloud | AWS | Python | SQL
